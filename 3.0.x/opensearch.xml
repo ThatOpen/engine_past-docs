@@ -4,8 +4,8 @@
   <ShortName>That Open docs</ShortName>
   <Description>Search That Open docs</Description>
   <InputEncoding>UTF-8</InputEncoding>
-  <Image width="16" height="16" type="image/x-icon">https://docs.thatopen.com/3.0.x/img/favicon.ico</Image>
-  <Url type="text/html" method="get" template="https://docs.thatopen.com/3.0.x/search?q={searchTerms}"/>
-  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.thatopen.com/3.0.x/opensearch.xml" />
-  <moz:SearchForm>https://docs.thatopen.com/3.0.x/</moz:SearchForm>
+  <Image width="16" height="16" type="image/x-icon">https://docs.thatopen.com/engine_past-docs/3.0.x/img/favicon.ico</Image>
+  <Url type="text/html" method="get" template="https://docs.thatopen.com/engine_past-docs/3.0.x/search?q={searchTerms}"/>
+  <Url type="application/opensearchdescription+xml" rel="self" template="https://docs.thatopen.com/engine_past-docs/3.0.x/opensearch.xml" />
+  <moz:SearchForm>https://docs.thatopen.com/engine_past-docs/3.0.x/</moz:SearchForm>
 </OpenSearchDescription>
